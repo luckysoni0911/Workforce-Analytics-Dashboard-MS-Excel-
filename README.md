@@ -1,16 +1,20 @@
 Workforce Analytics Dashboard using Microsoft Excel
 
-Overview
+Overview ;-
 An interactive Workforce Analytics Dashboard built in Microsoft Excel to analyze employee performance, workforce trends, and key business metrics.
 
-Key Features
+Key Features ;-
 Employee Performance Analysis
 Department-wise Insights
 Interactive KPI Dashboard
 Dynamic Charts and Filters
 
-Tools Used
+Tools Used ;-
 Pivot Tables
 Pivot Charts
 Slicers
 Conditional Formatting
+
+⚠️To enable macros:-
+Right-click file → Properties → Unblock → Apply
+Open Excel → Enable Content
